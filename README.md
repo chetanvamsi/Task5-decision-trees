@@ -72,3 +72,11 @@ Feature importance graph shows which features contribute most to prediction.
 Random Forest performed better and provided more stable and accurate results compared to a single Decision Tree.
 
 ---
+
+## 📈 Outputs
+
+### Feature Importance
+![Feature Importance](feature1.png)
+
+### Model Output
+![Model Output](feature2.png)
